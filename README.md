@@ -1,24 +1,55 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+
+# Muhammad Rizky Aditiya Saputra 🚀
+
+🎓 Final-year Computer Science student at **Bina Nusantara University**  
+📱 Mobile Application & Technology  
+🔁 Pivoting from **Mobile & Frontend → Backend → Cloud / AI**
+
+🌐 <a href="https://fruveveg-frontend.vercel.app">Portfolio Website</a>
+
+</div>
+
+---
+
+## 👋 About Me
+I am a final-year student with a strong foundation in **computer science and software engineering**, experienced in **mobile, web, and backend development**.
+
+I have worked in **enterprise application environments**, supporting system analysis, technical documentation, and collaboration with internal teams and external consultants.  
+Currently, I am focusing on **backend engineering** and preparing myself for **cloud-native and AI-oriented systems**.
+
+---
+
+## 🎯 Current Focus
+- Backend development & RESTful APIs  
+- Database design & system architecture  
+- Clean code & technical documentation  
+- Cloud & AI fundamentals (learning path)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaputraAditiya&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaputraAditiya&layout=compact)
+
+</div>
+
+---
+
+## 📫 Let’s Connect
+- 🌐 Portfolio: https://fruveveg-frontend.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/muhammad-rizky-aditiya-saputra-4b81a8252
+
+⭐ Thanks for visiting my profile — feel free to explore my repositories.
+
+
+<h2 align="center">I code with</h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
